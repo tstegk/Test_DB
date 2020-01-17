@@ -18,4 +18,4 @@
 
 # MAGIC %python
 # MAGIC import pandas as pd
-# MAGIC print(df.iloc[1:10,:])
+# MAGIC print(df.iloc[1:19,:])
